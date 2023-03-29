@@ -2,7 +2,7 @@
   "name": "test_react_app_githubpage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://miwgu.com/testpagereact",
+  "homepage": "https://miwgu.github.io/Test_Githubpage_React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
